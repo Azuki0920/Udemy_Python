@@ -1,3 +1,5 @@
+# Python勉強コードメモ
+
 a = "test"
 b = a
 c = b
